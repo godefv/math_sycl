@@ -1,0 +1,6 @@
+[submodule "extern/Xilinx/triSYCL"]
+	path = extern/Xilinx/triSYCL
+	url = https://github.com/Xilinx/triSYCL
+[submodule "extern/godefv/math"]
+	path = extern/godefv/math
+	url = https://github.com/godefv/math
